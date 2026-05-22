@@ -1,5 +1,5 @@
 # Granny Legacy Offline
 How to play: Run "Play Granny Legacy x64.exe" or "Play Granny Legacy.exe"  
 Granny: Legacy by OmGi: https://gamejolt.com/games/grannylegacy/1011593
-# Granny Legacy Offline Patcher
+# Granny Legacy Offline Patches
 How to use: Extract the patches into the Granny Legacy folder (NOT NEEDED IF YOU HAVE ALREADY DOWNLOADED THE OFFLINE VERSION)
